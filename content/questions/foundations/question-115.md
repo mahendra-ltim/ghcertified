@@ -12,3 +12,4 @@ draft: false
 1. [x] Managing GitHub Actions
 1. [ ] Switching between branches
 1. [ ] Committing changes
+1. [ ] Fetch Origin
